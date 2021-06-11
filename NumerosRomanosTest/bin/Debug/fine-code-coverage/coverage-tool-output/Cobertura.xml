@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.864406779661017" branch-rate="0.8571428571428571" lines-covered="102" lines-valid="118" branches-covered="12" branches-valid="14" complexity="30" version="0" timestamp="1623430482">
+  <sources />
+  <packages>
+    <package name="NumerosRomanos" line-rate="0.8367346938775511" branch-rate="0.8571428571428571" complexity="26">
+      <classes>
+        <class name="NumerosRomanos.Arabicos" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\Arabicos.cs" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods>
+            <method name=".ctor" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="9" hits="14" branch="false" />
+                <line number="10" hits="14" branch="false" />
+                <line number="11" hits="14" branch="false" />
+                <line number="12" hits="14" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="14" branch="false" />
+            <line number="10" hits="14" branch="false" />
+            <line number="11" hits="14" branch="false" />
+            <line number="12" hits="14" branch="false" />
+          </lines>
+        </class>
+        <class name="NumerosRomanos.ConversorArabicoParaRomano" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\ConversorArabicoParaRomano.cs" line-rate="0.8" branch-rate="0.8333333333333334" complexity="2">
+          <methods>
+            <method name="converter" signature="(NumerosRomanos.Arabicos)" line-rate="0.8" branch-rate="0.5" complexity="NaN">
+              <lines>
+                <line number="12" hits="14" branch="false" />
+                <line number="13" hits="14" branch="true" condition-coverage="50% (1/2)" />
+                <line number="14" hits="0" branch="false" />
+                <line number="17" hits="14" branch="false" />
+                <line number="18" hits="14" branch="false" />
+              </lines>
+            </method>
+            <method name="Validar" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="20" hits="15" branch="false" />
+                <line number="21" hits="15" branch="true" condition-coverage="100% (2/2)" />
+                <line number="22" hits="1" branch="false" />
+                <line number="25" hits="14" branch="false" />
+                <line number="26" hits="15" branch="false" />
+              </lines>
+            </method>
+            <method name="GetResultado" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="30" hits="47" branch="false" />
+                <line number="31" hits="1328" branch="false" />
+                <line number="32" hits="610" branch="false" />
+                <line number="33" hits="643" branch="true" condition-coverage="100% (2/2)" />
+                <line number="34" hits="577" branch="false" />
+                <line number="35" hits="14" branch="false" />
+                <line number="36" hits="47" branch="false" />
+              </lines>
+            </method>
+            <method name="ApresentarMensagemErro" signature="(System.String)" line-rate="0" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GerarDicionario" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="47" hits="15" branch="false" />
+                <line number="48" hits="15" branch="false" />
+                <line number="49" hits="15" branch="false" />
+                <line number="50" hits="15" branch="false" />
+                <line number="51" hits="15" branch="false" />
+                <line number="52" hits="15" branch="false" />
+                <line number="53" hits="15" branch="false" />
+                <line number="54" hits="15" branch="false" />
+                <line number="55" hits="15" branch="false" />
+                <line number="56" hits="15" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="15" branch="false" />
+                <line number="9" hits="15" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="15" branch="false" />
+            <line number="9" hits="15" branch="false" />
+            <line number="12" hits="14" branch="false" />
+            <line number="13" hits="14" branch="true" condition-coverage="50% (1/2)" />
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="14" branch="false" />
+            <line number="18" hits="14" branch="false" />
+            <line number="20" hits="15" branch="false" />
+            <line number="21" hits="15" branch="true" condition-coverage="100% (2/2)" />
+            <line number="22" hits="1" branch="false" />
+            <line number="25" hits="14" branch="false" />
+            <line number="26" hits="15" branch="false" />
+            <line number="30" hits="47" branch="false" />
+            <line number="31" hits="1328" branch="false" />
+            <line number="32" hits="610" branch="false" />
+            <line number="33" hits="643" branch="true" condition-coverage="100% (2/2)" />
+            <line number="34" hits="577" branch="false" />
+            <line number="35" hits="14" branch="false" />
+            <line number="36" hits="47" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="47" hits="15" branch="false" />
+            <line number="48" hits="15" branch="false" />
+            <line number="49" hits="15" branch="false" />
+            <line number="50" hits="15" branch="false" />
+            <line number="51" hits="15" branch="false" />
+            <line number="52" hits="15" branch="false" />
+            <line number="53" hits="15" branch="false" />
+            <line number="54" hits="15" branch="false" />
+            <line number="55" hits="15" branch="false" />
+            <line number="56" hits="15" branch="false" />
+          </lines>
+        </class>
+        <class name="NumerosRomanos.ConversorRomanoParaArabico" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\ConversorRomanoParaArabico.cs" line-rate="0.8679245283018868" branch-rate="0.875" complexity="2">
+          <methods>
+            <method name="converter" signature="(NumerosRomanos.Romano)" line-rate="0.8333333333333334" branch-rate="0.5" complexity="NaN">
+              <lines>
+                <line number="14" hits="15" branch="false" />
+                <line number="15" hits="15" branch="false" />
+                <line number="17" hits="15" branch="true" condition-coverage="50% (1/2)" />
+                <line number="18" hits="0" branch="false" />
+                <line number="21" hits="15" branch="false" />
+                <line number="22" hits="15" branch="false" />
+              </lines>
+            </method>
+            <method name="Validar" signature="(System.String)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="24" hits="16" branch="false" />
+                <line number="25" hits="16" branch="true" condition-coverage="100% (2/2)" />
+                <line number="26" hits="1" branch="false" />
+                <line number="29" hits="15" branch="false" />
+                <line number="30" hits="16" branch="false" />
+              </lines>
+            </method>
+            <method name="GetResultado" signature="(NumerosRomanos.Romano)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="34" hits="15" branch="false" />
+                <line number="35" hits="129" branch="false" />
+                <line number="36" hits="42" branch="false" />
+                <line number="37" hits="42" branch="false" />
+                <line number="38" hits="42" branch="false" />
+                <line number="40" hits="42" branch="true" condition-coverage="100% (2/2)" />
+                <line number="41" hits="5" branch="false" />
+                <line number="42" hits="5" branch="false" />
+                <line number="43" hits="5" branch="false" />
+                <line number="44" hits="5" branch="false" />
+                <line number="46" hits="37" branch="false" />
+                <line number="48" hits="42" branch="false" />
+                <line number="49" hits="42" branch="false" />
+                <line number="50" hits="15" branch="false" />
+              </lines>
+            </method>
+            <method name="ApresentarMensagemErro" signature="(System.String)" line-rate="0" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="FormatarNumero" signature="(NumerosRomanos.Romano)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="61" hits="15" branch="false" />
+                <line number="62" hits="15" branch="false" />
+                <line number="63" hits="15" branch="false" />
+                <line number="64" hits="15" branch="false" />
+                <line number="65" hits="15" branch="false" />
+              </lines>
+            </method>
+            <method name="TransformarEmArabicos" signature="(System.String)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="68" hits="42" branch="false" />
+                <line number="69" hits="42" branch="true" condition-coverage="100% (2/2)" />
+                <line number="70" hits="41" branch="false" />
+                <line number="72" hits="1" branch="false" />
+                <line number="73" hits="42" branch="false" />
+              </lines>
+            </method>
+            <method name="GerarDicionario" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="76" hits="16" branch="false" />
+                <line number="77" hits="16" branch="false" />
+                <line number="78" hits="16" branch="false" />
+                <line number="79" hits="16" branch="false" />
+                <line number="80" hits="16" branch="false" />
+                <line number="81" hits="16" branch="false" />
+                <line number="82" hits="16" branch="false" />
+                <line number="83" hits="16" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="16" branch="false" />
+                <line number="9" hits="16" branch="false" />
+                <line number="10" hits="16" branch="false" />
+                <line number="11" hits="16" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="16" branch="false" />
+            <line number="9" hits="16" branch="false" />
+            <line number="10" hits="16" branch="false" />
+            <line number="11" hits="16" branch="false" />
+            <line number="14" hits="15" branch="false" />
+            <line number="15" hits="15" branch="false" />
+            <line number="17" hits="15" branch="true" condition-coverage="50% (1/2)" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="15" branch="false" />
+            <line number="22" hits="15" branch="false" />
+            <line number="24" hits="16" branch="false" />
+            <line number="25" hits="16" branch="true" condition-coverage="100% (2/2)" />
+            <line number="26" hits="1" branch="false" />
+            <line number="29" hits="15" branch="false" />
+            <line number="30" hits="16" branch="false" />
+            <line number="34" hits="15" branch="false" />
+            <line number="35" hits="129" branch="false" />
+            <line number="36" hits="42" branch="false" />
+            <line number="37" hits="42" branch="false" />
+            <line number="38" hits="42" branch="false" />
+            <line number="40" hits="42" branch="true" condition-coverage="100% (2/2)" />
+            <line number="41" hits="5" branch="false" />
+            <line number="42" hits="5" branch="false" />
+            <line number="43" hits="5" branch="false" />
+            <line number="44" hits="5" branch="false" />
+            <line number="46" hits="37" branch="false" />
+            <line number="48" hits="42" branch="false" />
+            <line number="49" hits="42" branch="false" />
+            <line number="50" hits="15" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="61" hits="15" branch="false" />
+            <line number="62" hits="15" branch="false" />
+            <line number="63" hits="15" branch="false" />
+            <line number="64" hits="15" branch="false" />
+            <line number="65" hits="15" branch="false" />
+            <line number="68" hits="42" branch="false" />
+            <line number="69" hits="42" branch="true" condition-coverage="100% (2/2)" />
+            <line number="70" hits="41" branch="false" />
+            <line number="72" hits="1" branch="false" />
+            <line number="73" hits="42" branch="false" />
+            <line number="76" hits="16" branch="false" />
+            <line number="77" hits="16" branch="false" />
+            <line number="78" hits="16" branch="false" />
+            <line number="79" hits="16" branch="false" />
+            <line number="80" hits="16" branch="false" />
+            <line number="81" hits="16" branch="false" />
+            <line number="82" hits="16" branch="false" />
+            <line number="83" hits="16" branch="false" />
+          </lines>
+        </class>
+        <class name="NumerosRomanos.Program" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\Program.cs" line-rate="0" branch-rate="1" complexity="NaN">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="NumerosRomanos.Romano" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\Romano.cs" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods>
+            <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="9" hits="15" branch="false" />
+                <line number="10" hits="15" branch="false" />
+                <line number="11" hits="15" branch="false" />
+                <line number="12" hits="15" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="15" branch="false" />
+            <line number="10" hits="15" branch="false" />
+            <line number="11" hits="15" branch="false" />
+            <line number="12" hits="15" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="NumerosRomanosTest" line-rate="1" branch-rate="1" complexity="4">
+      <classes>
+        <class name="NumerosRomanosTest.TestesArabicoParaRomano" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanosTest\TestesArabicoParaRomano.cs" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods>
+            <method name="ArabicoParaRomano" signature="(System.Int32,System.String)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="26" hits="14" branch="false" />
+                <line number="27" hits="14" branch="false" />
+                <line number="28" hits="14" branch="false" />
+                <line number="29" hits="14" branch="false" />
+                <line number="30" hits="14" branch="false" />
+                <line number="31" hits="14" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="26" hits="14" branch="false" />
+            <line number="27" hits="14" branch="false" />
+            <line number="28" hits="14" branch="false" />
+            <line number="29" hits="14" branch="false" />
+            <line number="30" hits="14" branch="false" />
+            <line number="31" hits="14" branch="false" />
+          </lines>
+        </class>
+        <class name="NumerosRomanosTest.TestesInvalidos" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanosTest\TestesInvalidos.cs" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods>
+            <method name="TesteInvalidoRomanoParaArabico" signature="(System.String,System.String)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="TesteInvalidoArabicoParaRomano" signature="(System.Int32,System.String)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="NumerosRomanosTest.TestesRomanoParaArabico" filename="C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanosTest\TestesRomanoParaArabico.cs" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods>
+            <method name="RomanoParaArabico" signature="(System.String,System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
+              <lines>
+                <line number="27" hits="15" branch="false" />
+                <line number="28" hits="15" branch="false" />
+                <line number="29" hits="15" branch="false" />
+                <line number="30" hits="15" branch="false" />
+                <line number="31" hits="15" branch="false" />
+                <line number="32" hits="15" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="27" hits="15" branch="false" />
+            <line number="28" hits="15" branch="false" />
+            <line number="29" hits="15" branch="false" />
+            <line number="30" hits="15" branch="false" />
+            <line number="31" hits="15" branch="false" />
+            <line number="32" hits="15" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

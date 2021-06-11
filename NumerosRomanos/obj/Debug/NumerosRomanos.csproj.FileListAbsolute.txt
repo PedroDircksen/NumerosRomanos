@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\NumerosRomanos.ConsoleApp\NumerosRomanos\bin\Debug\NumerosRomanos.exe.config
+C:\Users\pedro\source\repos\NumerosRomanos.ConsoleApp\NumerosRomanos\bin\Debug\NumerosRomanos.exe
+C:\Users\pedro\source\repos\NumerosRomanos.ConsoleApp\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+C:\Users\pedro\source\repos\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.exe
+C:\Users\pedro\source\repos\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.pdb
+C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\bin\Debug\NumerosRomanos.exe.config
+C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\bin\Debug\NumerosRomanos.exe
+C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.csprojAssemblyReference.cache
+C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.exe
+C:\Users\pedro\Downloads\NumerosRomanos.ConsoleApp\NumerosRomanos.ConsoleApp\NumerosRomanos\obj\Debug\NumerosRomanos.pdb
